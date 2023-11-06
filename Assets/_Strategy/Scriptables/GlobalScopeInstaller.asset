@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 959c45a2a69379c458356dd228aa0797, type: 3}
+  m_Name: GlobalScopeInstaller
+  m_EditorClassIdentifier: 
+  _legacyContext: {fileID: 11400000, guid: 8655a3e575e2502439bc5c3855080356, type: 2}
+  _groundClicksRMB: {fileID: 11400000, guid: 8737639a8ec8dc04ca1bccc3050fb8ec, type: 2}
+  _selectables: {fileID: 11400000, guid: 324bba23600dde8469c06467397440f5, type: 2}
+  _attackableClicksRMB: {fileID: 11400000, guid: 5685ccc0f7d16b048bba8aa72f60f774, type: 2}
+  _commandClicksRMB: {fileID: 11400000, guid: 8daede30f9acd9b4aa970d3985ddeb49, type: 2}
+  _chomperSprite: {fileID: 21300000, guid: 89639b35d69b98d43bb1a0571f677402, type: 3}

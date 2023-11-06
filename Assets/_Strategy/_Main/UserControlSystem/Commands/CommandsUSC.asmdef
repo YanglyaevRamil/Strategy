@@ -1,0 +1,17 @@
+{
+    "name": "CommandsUSC",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c4ccf8269348a2e46982da16c21bdd31",
+        "GUID:068e5134dd7047b2ad60e49847b643fa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

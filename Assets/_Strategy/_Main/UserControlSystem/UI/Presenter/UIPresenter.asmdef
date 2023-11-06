@@ -1,0 +1,22 @@
+{
+    "name": "UIPresenter",
+    "rootNamespace": "",
+    "references": [
+        "GUID:03033782c249ec04d863fc57a0531149",
+        "GUID:c4ccf8269348a2e46982da16c21bdd31",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:0f95f4d16c3639f4590758a1323c1a3a",
+        "GUID:d79f01f31141b6346abe56bcb51f5cfd",
+        "GUID:068e5134dd7047b2ad60e49847b643fa",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
